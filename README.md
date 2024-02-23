@@ -1,3 +1,3 @@
 # Demo
 This is my first GIT repository
-<br> Author : Chinmay<br>
+<br> Author : Chinmay S Bhagwat<br>
